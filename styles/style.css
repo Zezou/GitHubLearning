@@ -1,6 +1,11 @@
 @import "navbar.min.css";
 
-div {
-    margin-left: 10%;
-    margin-right: 10%;
+left-content {
+    width: 50%;
+    float: left;
+}
+
+right-content {
+    margin-left: 50%;
+    float: right;
 }
